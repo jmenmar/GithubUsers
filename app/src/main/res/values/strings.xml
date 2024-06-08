@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+
+    // Home
+    <string name="clear">Clear</string>
+    <string name="search_user">Search user</string>
+    <string name="user_avatar">user_avatar</string>
+
+    // Detail
+    <string name="followers">Followers</string>
+    <string name="return_to_home">Return to home</string>
+    <string name="repository">Repository</string>
+</resources>
